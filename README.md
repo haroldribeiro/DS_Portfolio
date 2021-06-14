@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋🏽
 
 Welcome to my world and I hope that you can have a good trip. ✈️
 
