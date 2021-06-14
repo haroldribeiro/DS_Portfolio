@@ -9,7 +9,8 @@ Welcome to my world and I hope that you can have a good trip. ✈️
 * EDA (univariate and bivariate)
 * It was utilized Logistic regression model 
 
-![project1](https?//images/project_1_qty_contacts.png)
+![project1](/images/project_1_qty_contacts.png)
+
 
 
 
