@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my world and I hope that you can have a good trip. 🚀
+Welcome to my world and I hope that you can have a good trip. ✈️
 
 # [Project 1: Predict churning customer: Overview](https://github.com/haroldribeiro/CreditCard_Churn)
 
