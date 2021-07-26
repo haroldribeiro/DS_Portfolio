@@ -11,9 +11,7 @@ Welcome to my world and I hope that you can have a good trip. ✈️
 
 ![project1](/images/project_1_qty_contacts.png)
 
-# [Project 2: Salary prediction for DS: Overview](https://github.com/haroldribeiro/ds_salaries_prediction)
-
-## **Working on it**
+# [Project 2: Salary prediction for DS: Overview (Working on it 🏗️)](https://github.com/haroldribeiro/ds_salaries_prediction)
 
 The main aim is predict the Data Scientist salary based on the **Glassdoor vacancies data (web scraping technique), statistic models and machine learning**.
 
