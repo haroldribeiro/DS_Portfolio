@@ -11,15 +11,18 @@ Welcome to my world and I hope that you can have a good trip. ✈️
 
 ![project1](/images/project_1_qty_contacts.png)
 
-# [Project 2: Salary prediction for DS: Overview (Working on it 🏗️)](https://github.com/haroldribeiro/ds_salaries_prediction)
+# [Project 2: Salary prediction for DS: Overview (under development 🏗️)](https://github.com/haroldribeiro/ds_salaries_prediction)
 
-The main aim is predict the Data Scientist salary based on the **Glassdoor vacancies data (web scraping technique), statistic models and machine learning**.
+The main aim of this project is to predict Data Scientists' salary based on historical data available at **Glassdoor, retrieved using web scraping technique**, and also statistics models and machine learning.
 
-At the end, we're going to have a better understanding of most important characteristics that can help us in many different ways, for example:
+In the end, we're going to have a better understanding of the most important characteristics that define and impact  their salary and range.
 
-* Job negotiation
-* Helping companies to understand whether the salaries offered are compatible or not against job market in order to help to **reduce the turnover rate**
-* Supporting employer to offer better internal job promotions for their employees
+This knowledge, will bring benefits to applicants as well as to companies:
+
+* Better job negotiation
+* Help companies to understand whether the salaries offered are compatible with the job market
+* **Reduce employment turnover rate**
+* Provide support to employers to offer better promotions to their employees
 
 
 
